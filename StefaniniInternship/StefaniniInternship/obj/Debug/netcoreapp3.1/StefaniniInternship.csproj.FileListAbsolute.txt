@@ -1,0 +1,25 @@
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.exe
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.deps.json
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.runtimeconfig.json
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.runtimeconfig.dev.json
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.dll
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.pdb
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.AssemblyInfoInputs.cache
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.AssemblyInfo.cs
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.dll
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.pdb
+C:\Users\Dragomir\Desktop\Univer\Anul 4\SI\Lab1\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.genruntimeconfig.cache
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.exe
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.deps.json
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.runtimeconfig.json
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.runtimeconfig.dev.json
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.dll
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\bin\Debug\netcoreapp3.1\StefaniniInternship.pdb
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.csprojAssemblyReference.cache
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.AssemblyInfoInputs.cache
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.AssemblyInfo.cs
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.dll
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.pdb
+C:\Users\Dragomir\Desktop\StefaniniInternship\StefaniniInternship\obj\Debug\netcoreapp3.1\StefaniniInternship.genruntimeconfig.cache
